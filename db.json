@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "slug": "bonnes-pratiques-seo-frameworks-javascript",
+      "title": "Les bonnes pratiques SEO avec les frameworks JavaScript",
+      "content": "Contrairement à un site classique qui suit le modèle de communication client-serveur, une application fondée sur JavaScript (Ajax et autres applications web) suit le modèle du “client-side rendering” à savoir : la première requête charge le layout de la page, le CSS et le JavaScript. Il est fréquent qu’une partie ou tout le contenu ne soit pas chargé. Ensuite, le JavaScript envoie une seconde requête au serveur qui répond en JSON pour enfin générer le HTML approprié.",
+      "description": "Comprendre les techniques permettant d'optimiser les performances SEO de votre application frontend JavaScript"
+    },
+    {
+      "id": 2,
+      "slug": "seo-pour-les-web-apps-react-js",
+      "title": "SEO pour les Web Apps React JS",
+      "content": "Le futur du web est mobile. Les gens consultent de plus en plus avec leurs smartphones. C’est pour cette raison que les Web Apps sont très certainement l’avenir en ce qui concerne les interfaces web.",
+      "description": "Différentes solutions pour le SEO des Web Applications réalisées avec React JS. Next JS, Gatsby et Prerender. Les web apps ont toujours un défaut : l'indexation par les moteurs de recherche."
+    },
+    {
+      "id": 3,
+      "slug": "quest-ce-que-react",
+      "title": "Qu’est-ce que React?",
+      "content": "La technologie React est un Framework/bibliothèque Javascript front end basé qui facilite la création d’applications dynamiques. Cette techno est censée apporter de meilleures performances qu’un système classique. Lancé en 2013 par Facebook, REACT est open source et est articulé autour de dizaines de milliers de modules.",
+      "description": "REACT : quels impacts en SEO ? Comment mettre en place une solution pour que Google accède à votre code source complet (comme si le site n’était pas en REACT au final…)."
+    }
+  ]
+}
